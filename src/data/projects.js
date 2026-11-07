@@ -12,7 +12,7 @@ export const projects = [
     name: "GMI",
     subtitle: "Maintenance informatique",
     year: "2026",
-    image: "public/images/project-placeholder.jpeg",
+    image: "/images/project-placeholder.jpg",
     description:
       "GMI (Gestion de Maintenance Informatique) est une application web de ticketing informatique : elle permet de déclarer, suivre et traiter les demandes de maintenance.",
     role: "Développeur frontend — conception et intégration de l'ensemble des pages de l'interface.",
